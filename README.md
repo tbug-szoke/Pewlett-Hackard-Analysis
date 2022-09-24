@@ -9,7 +9,7 @@ The following observations are made in response to the two analyses delivered:
  
 1. Reviewing the positions that the retirement-eligible employees currently hold (see `unique_titles.csv` and the summary `retiring_titles.csv`), we see that the largest impact will be to the Senior Engineer and Senior Staff positions.
 
-  INSERT IMAGE retiring_titles.png
+  ![Number of Retiring Employeees by Title](retiring_titles.png)
   
 2. We can see that this is in-line with the fact that these positions are the most numerous in the company. This was determined by writing a query to identify the number of current employees by title:
   ```
@@ -21,7 +21,8 @@ The following observations are made in response to the two analyses delivered:
   ```
 
   which had these results:
-  INSERT IMAGE current_employee_titles.png
+  
+  ![Number of Current Employees by Title](current_employee_titles.png)
 
 In total, Pewlett Hackard needs to plan for between 25-30% of their workforce across all positions retiring in the 'silver tsunami'.
 
@@ -36,7 +37,7 @@ In total, Pewlett Hackard needs to plan for between 25-30% of their workforce ac
   ORDER BY "number of mentors" DESC;
   ```
 
-  INSERT IMAGE mentor_titles.png
+  ![Number of Potential Mentors by Title](mentor_titles.png)
 
 ## Summary
 In summary, Pewlett Hackard needs to plan for the retirement of 72,458 employees out of 240,124 total current employees or nearly 30% of their workforce.  They have identified 1,549 potential mentors, but that may not be enough.  Pewlet Hackard should consider expanding the potential mentor pool to more of its near to retirement workforce.

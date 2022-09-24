@@ -39,7 +39,7 @@ In total, Pewlett Hackard needs to plan for between 25-30% of their workforce ac
   INSERT IMAGE mentor_titles.png
 
 ## Summary
-In summary, Pewlett Hackard needs to plan for the retirement of 72,458 employees. 
+In summary, Pewlett Hackard needs to plan for the retirement of 72,458 employees out of 240,124 total current employees or nearly 30% of their workforce.  They have identified 1,549 potential mentors, but that may not be enough.  Pewlet Hackard should consider expanding the potential mentor pool to more of its near to retirement workforce.
 
 
 
